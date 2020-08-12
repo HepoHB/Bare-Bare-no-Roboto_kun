@@ -5,8 +5,10 @@ Neste desafio, era preciso projetar uma coreografia para o "Single-arm YuMi", de
 Mesmo não ganhando por quantidade de curtidas, fui um dos destaques no quesito técnico.       \\[T]/ ☀
 
 
-A música escolhida foi "Waltz of The Flowers", composta para o ballet "The Nutcracker (O Quebra-Nozes), por, ninguém menos que nossa amada Piotr Ilitch Tchaikovski (Tchaiko-Chan).
+A música escolhida foi "Waltz of The Flowers", composta para o ballet "The Nutcracker (O Quebra-Nozes)", por, ninguém menos que nossa amada Piotr Ilitch Tchaikovski (Tchaiko-Chan).
 
+
+# Descrição dos arquivos
 ArquivoVirgem.zip  - Projeto pré-configurado para você desenvolver a própria coreografia (Ou qualquer coisa que deseje realizar utilizando a SA-YuMi);
 Desafio_EXSTO_padrao.zip - Projeto utilizado no desenvolvimento de minha coreografia;
 RobotChallenge_WaltzOfTheFlowers.tar - Backup do controlador utilizado no desenvolvimento de minha coreografia;
