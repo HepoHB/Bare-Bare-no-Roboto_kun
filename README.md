@@ -7,4 +7,10 @@ Mesmo não ganhando por quantidade de curtidas, fui um dos destaques no quesito 
 
 A música escolhida foi "Waltz of The Flowers", composta para o ballet "The Nutcracker (O Quebra-Nozes), por, ninguém menos que nossa amada Piotr Ilitch Tchaikovski (Tchaiko-Chan).
 
-Aqui está o arquivo de projeto do RobotStudio e o arquivo de backup do projeto. Será necessário configurar o Robotstudio para rodar o projeto.
+ArquivoVirgem.zip  - Projeto pré-configurado para você desenvolver a própria coreografia (Ou qualquer coisa que deseje realizar utilizando a SA-YuMi);
+Desafio_EXSTO_padrao.zip - Projeto utilizado no desenvolvimento de minha coreografia;
+RobotChallenge_WaltzOfTheFlowers.tar - Backup do controlador utilizado no desenvolvimento de minha coreografia;
+MainModule - Somente para visualização do código. Caso queira executá-lo, deverá realizar um backup do arquivo .tar no RobotStudio (Ou copiar e colar no RAPID do RobotStudio);
+Module1 - Somente para visualização do código. Caso queira executá-lo, deverá realizar um backup do arquivo .tar no RobotStudio (Ou copiar e colar no RAPID do RobotStudio).
+
+Será necessário configurar o Robotstudio para rodar o projeto.
