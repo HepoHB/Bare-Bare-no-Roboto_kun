@@ -7,6 +7,8 @@ Mesmo não ganhando por quantidade de curtidas, fui um dos destaques no quesito 
 
 A música escolhida foi "Waltz of The Flowers", composta para o ballet "The Nutcracker (O Quebra-Nozes)", por, ninguém menos que nossa amada Piotr Ilitch Tchaikovski (Tchaiko-Chan).
 
+Vídeo de execução: https://youtu.be/pYeG1Ebc_VE
+
 
 ## Descrição dos arquivos
  - ArquivoVirgem.zip  - Projeto pré-configurado para você desenvolver a própria coreografia (Ou qualquer coisa que deseje realizar utilizando a SA-YuMi);
