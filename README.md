@@ -1,4 +1,4 @@
-# WaltzOfTheFlowers
+# Barē Barē no Roboto-kun
 Projeto desenvolvido para o "RobotChallenge - O primeiro desafio de Robótica Exsto + ABB".
 
 Neste desafio, era preciso projetar uma coreografia para o "Single-arm YuMi", desenvolvê-la utilizando o software Robotstudio e enviar o código para a empresa responsável. Caso atendesse todos os requisitos necessários, a coreografia seria executada no robô físico, gravada e postada no Instagram. Os vídeos com mais curtidas iriam para as finais. <br>
